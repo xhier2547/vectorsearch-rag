@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.venv/
+.env
+
+# Next.js
+node_modules/
+.next/
+out/
+build/
+.DS_Store
+
+# Data & Vectors
+qdrant_data/
+storage/
+*.log
+.ipynb_checkpoints/
